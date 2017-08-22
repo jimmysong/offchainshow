@@ -1,0 +1,11 @@
+baseURL = "http://offchainshow.com/"
+languageCode = "en-us"
+title = ""
+paginate = 10
+Copyright = "All Rights Reserved - 2017"
+theme = "casper"
+publishDir = "docs"
+[params]
+  description = ""
+  cover = "img/cover.jpg"
+  logo = "img/logo.png"

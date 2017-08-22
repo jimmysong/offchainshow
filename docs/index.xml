@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://offchainshow.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All Rights Reserved - 2017</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 15:22:44 -0700</lastBuildDate>
+    
+	<atom:link href="http://offchainshow.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Off Chain Episode 1</title>
+      <link>http://offchainshow.com/post/episode1/</link>
+      <pubDate>Tue, 22 Aug 2017 15:22:44 -0700</pubDate>
+      
+      <guid>http://offchainshow.com/post/episode1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
